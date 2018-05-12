@@ -1,0 +1,40 @@
+_repo: Literary-Character-of-Men-of-GeniusDrawn-from-Their-Own-Feelings-and-Confessions_15960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Disraeli, Isaac
+    alias: D'Israeli, I. (Isaac)
+    birthdate: 1766
+    deathdate: 1848
+    gutenberg_agent_id: '6393'
+    url: http://www.gutenberg.org/2009/agents/6393
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_D'Israeli
+  editor:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: ''
+gutenberg_issued: '2005-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature'
+- !lcsh 'Authors, English'
+- !lcsh 'James I, King of England, 1566-1625'
+- !lcc 'PN'
+title: 'Literary Character of Men of Genius
+
+  Drawn from Their Own Feelings and Confessions'
+url: http://www.gutenberg.org/ebooks/15960
